@@ -1,4 +1,5 @@
 # Bitrat source code
+# Contact me: https://hackforums.net/member.php?action=profile&uid=4667696
 Feature list
 Two modes of connections:
 Direct reverse connection mode via secure sockets (up to TLS 1.3)
