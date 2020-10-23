@@ -94,3 +94,5 @@ Audio live feed:
 
 SOCKS5 Proxy:
 - Utilize SOCKS5 on your clients by attempting to automatically forward ports via UPnP.
+--------------------------------------------------------------------------------------
+By: https://hackforums.net/member.php?action=profile&uid=4667696
